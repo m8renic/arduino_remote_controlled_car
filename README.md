@@ -1,4 +1,5 @@
 Basically, I've made this project for my graduation thesis. It's nothing groundbreaking nor is the code anything impressive.
+If anything, it's not really good, but hey, it worked for the most part.
 
 The base of the vehicle is the Lego Technic 42154 set. Alongside that, there was the FireBeetle 2 ESP32-E microcontroller
 which communicated with a Sony DualShock 4 controller over bluetooth. Hobbywing Quicrun 2435 SL Brushless Motor G3 and 
